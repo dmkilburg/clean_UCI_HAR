@@ -102,3 +102,4 @@ result %>%
 
 
 #write.csv(average_result, file = "averages.csv",row.names=FALSE)
+#write.csv(result, file = "results.csv",row.names=FALSE)
